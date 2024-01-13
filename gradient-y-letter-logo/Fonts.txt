@@ -1,0 +1,5 @@
+Fonts used in this design:
+
+Font: Lato
+Author: Łukasz Dziedzic
+Url: https://fonts.google.com/specimen/Lato
